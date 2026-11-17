@@ -202,3 +202,4 @@ QC_WIFI_HIDL_FEATURE_DUAL_AP := true
 
 # Inherit the proprietary files
 include vendor/lge/sm8150-common/BoardConfigVendor.mk
+TARGET_KERNEL_CLANG_VERSION := r416183b
